@@ -1,13 +1,15 @@
 const Read = require('../model/Read');
 
-module.exports = (req, res) =>{
+module.exports = (req, res) => {
 
-    Read.Reading('data.json').then(dat =>{
+    Read.Reading('data.json').then(dat => {
         res.statusCode = 200;
         res.json(Read.ReadParse(dat));
-    }).catch(err =>{
+    }).catch(err => {
         res.statusCode = 404
-        res.json({err: 'Erro Reading the file!!!'});
+        res.json({
+            err: 'Erro Reading the file!!!'
+        });
     })
-    
+
 }
