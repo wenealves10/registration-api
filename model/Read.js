@@ -1,10 +1,10 @@
-const fs = require('fs').promises;
+const fs = require('fs');
 const path = require('path');
 
 class Read{
-    static async Reading(pathName){
+    static Reading(pathName){
         const pathFile = path.resolve('databases',pathName);
-        return await fs.readFile(pathFile,{encoding:'utf-8'});
+        return fs.readFileSync(pathFile,{encoding:'utf-8'});
     }
 
     static ReadParse(dataFile){
