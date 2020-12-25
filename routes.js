@@ -1,9 +1,11 @@
 const express = require('express');
 const route = express.Router();
-const HomeControllers = require('./controllers/HomeControllers');
+const UsersControllers = require('./controllers/UsersControllers');
 const CreateControllers = require('./controllers/CreateControllers');
+const UserControllers = require('./controllers/UserControllers');
 
-route.get('/',HomeControllers);
+route.get('/users',UsersControllers);
+route.get('/user/:id',UserControllers);
 route.post('/create',CreateControllers);
 
 module.exports = route;
