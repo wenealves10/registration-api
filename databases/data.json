@@ -24,18 +24,6 @@
     "create": 1608933877407
   },
   {
-    "name": "Damon Salvatore",
-    "year": 19,
-    "id": 7,
-    "create": 1608981304426
-  },
-  {
-    "name": "Stefan Salvatore",
-    "year": 28,
-    "id": 8,
-    "create": 1608981566740
-  },
-  {
     "name": "Victor Silva",
     "year": 20,
     "id": 10,
@@ -46,5 +34,11 @@
     "year": 20,
     "id": 11,
     "create": 1608991379717
+  },
+  {
+    "name": "Freelipe Alves",
+    "year": 20,
+    "id": 12,
+    "create": 1608992779836
   }
 ]

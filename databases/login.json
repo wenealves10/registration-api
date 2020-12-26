@@ -19,5 +19,12 @@
     "email": "weneplay5@gmail.coms",
     "password": "$2a$10$ZvhgtC9NUEIOE.agetGCQ.GFXfe1VWGAtz.wzebFIFZsO9IERUypa",
     "date": 1608991258228
+  },
+  {
+    "id": 4,
+    "name": "Salvador de Oliveira",
+    "email": "salvadorrima@gmail.com",
+    "password": "$2a$10$QfHerQEzZ53y6DsgrbfIXu/GwwQcLUU7JSgS2tMZo4Qxaq.cWmNqa",
+    "date": 1608992903047
   }
 ]
