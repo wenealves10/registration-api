@@ -26,5 +26,12 @@
     "email": "salvadorrima@gmail.com",
     "password": "$2a$10$QfHerQEzZ53y6DsgrbfIXu/GwwQcLUU7JSgS2tMZo4Qxaq.cWmNqa",
     "date": 1608992903047
+  },
+  {
+    "id": 5,
+    "name": "Salvador Rima",
+    "email": "salvadorrima@com.br",
+    "password": "$2a$10$VMjMmd8hQO4de7p8NcZLneDCRAtENNOQhcNL2/T4HtuULpO/B3NXS",
+    "date": 1608993443688
   }
 ]
