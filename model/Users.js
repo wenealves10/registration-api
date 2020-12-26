@@ -11,26 +11,28 @@ class Users {
     }
 
     get getsUsers() {
+        this.users = Read.ReadParse(Read.Reading('data.json'));
         return this.users
     }
 
     getUser(id) {
+        this.users = Read.ReadParse(Read.Reading('data.json'));
         let isNumber = !isNaN(parseInt(id));
         if (isNumber) {
-            let idUser = parseInt(id) - 1;
-
-            if (idUser >= 0 && idUser <= this.users.length - 1) {
-                return this.users[idUser];
-            } else {
-                return -1
-            }
-
+            let idUser = parseInt(id);
+                let index = this.users.findIndex(i => i.id == idUser);
+                if(!(index == -1)){
+                    return this.users[index];
+                }else{
+                    return false;
+                }
         } else {
-            return -1
+            return false;
         }
     }
 
     createUser(datas) {
+        this.users = Read.ReadParse(Read.Reading('data.json'));
         let {
             name,
             year
@@ -59,6 +61,7 @@ class Users {
     }
 
     deleteUser(id) {
+        this.users = Read.ReadParse(Read.Reading('data.json'));
         let isNumber = !isNaN(parseInt(id));
         if (isNumber) {
             let idUser = parseInt(id);
@@ -79,6 +82,7 @@ class Users {
     }
 
     putUser(id, body) {
+        this.users = Read.ReadParse(Read.Reading('data.json'));
         let { name, year } = body;
         let isNumber = !isNaN(parseInt(id));
         if (isNumber) {
