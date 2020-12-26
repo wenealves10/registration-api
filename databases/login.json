@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Wene Alves",
+    "email": "wene@acad.com",
+    "password": "$2a$10$2DD2co31wlRZElmoJPGhIOJWJrPIN0qM9d2S7cG8RdZeDJwh3NW2S",
+    "date": 1608987549920
+  },
+  {
+    "id": 2,
+    "name": "Wene Alves de Oliveira",
+    "email": "weneplay5@gmail.com",
+    "password": "$2a$10$a3O4thRMmpr33AC/n1qoHu4a3le/TEeWJBbtbNG04RwudgxQc0HCS",
+    "date": 1608987632732
+  },
+  {
+    "id": 3,
+    "name": "Wene Alves de Oliveira",
+    "email": "weneplay5@gmail.coms",
+    "password": "$2a$10$ZvhgtC9NUEIOE.agetGCQ.GFXfe1VWGAtz.wzebFIFZsO9IERUypa",
+    "date": 1608991258228
+  }
+]
