@@ -5,7 +5,7 @@ module.exports = (req, res) => {
     const update = users.putUser(req.params.id, req.body);
     if(update){
         res.statusCode = 200;
-        res.json({status:'Successfully updated'});
+        res.json({status:'Successfully updated',user:{id:req.id, name:req.name}});
     }else{
         res.statusCode = 401;
         res.json({status:'Update Error'});
