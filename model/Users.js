@@ -32,7 +32,13 @@ class Users {
     }
 
     createUser(datas) {
-        this.users = Read.ReadParse(Read.Reading('data.json'));
+        
+        try{
+            this.users = Read.ReadParse(Read.Reading('data.json'));
+        }catch(err){
+            this.users = [];
+        }
+
         let {
             name,
             year
