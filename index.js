@@ -9,6 +9,10 @@ const config = {
 const express = require('express');
 const app = express();
 
+// Cors
+const cors = require('cors');
+app.use(cors());
+
 // BodyParser Config
 const bodyParser = require('body-parser');
 app.use(bodyParser.urlencoded({extended: false}));
