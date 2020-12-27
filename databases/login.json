@@ -40,5 +40,12 @@
     "email": "youtubeaa@gmail.com",
     "password": "$2a$10$qsuhRpUAJAbKHcQEcaObZOzsbPI6IvS24Guyu0Vk4fDffJNC3f7Ga",
     "date": 1609081312482
+  },
+  {
+    "id": 7,
+    "name": "Youtube",
+    "email": "udemybr@gmail.com",
+    "password": "$2a$10$kv4U1zxUR4EPcynapI9FOOgNr8TQsOt0u6fBo15xkCfKpYje5XcvO",
+    "date": 1609094648510
   }
 ]
