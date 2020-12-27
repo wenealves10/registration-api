@@ -5,5 +5,40 @@
     "email": "pedrosantoss@gmail.com",
     "password": "$2a$10$bfM/CezK/QUX/xtaYW0BU.LfWA/9m6cX/AUbjMleGSvicg2z35R7m",
     "date": 1609079592532
+  },
+  {
+    "id": 2,
+    "name": "Wene Alves",
+    "email": "wene.alves@acad.ifma.edu.br",
+    "password": "$2a$10$jSyXxRWgo.iCuP76VEbQ7udB9p9FFHSZ3.5PMnFdpivI/k5sRQ3Ci",
+    "date": 1609080768048
+  },
+  {
+    "id": 3,
+    "name": "Docker Hub",
+    "email": "darkcss@gmail.com",
+    "password": "$2a$10$f1aufLopqbyZPr7dZv89MefO8KmR8RrAo59bJRqYY0sPEe.tewIJS",
+    "date": 1609080825627
+  },
+  {
+    "id": 4,
+    "name": "Danki Code",
+    "email": "weneplay5@gmail.com",
+    "password": "$2a$10$oUiYe9Iv2l8tgXJlT8ZhnO3cb6MYikEbTK4byeOM47hGot2bMzHsS",
+    "date": 1609080949963
+  },
+  {
+    "id": 5,
+    "name": "Git Hub",
+    "email": "cursodarkcss@gmail.com",
+    "password": "$2a$10$183PXowGbbq.FfCHvoHr1urT14.rwCv9PLSrjZesfNCxXKYORKrym",
+    "date": 1609081018569
+  },
+  {
+    "id": 6,
+    "name": "Youtube",
+    "email": "youtubeaa@gmail.com",
+    "password": "$2a$10$qsuhRpUAJAbKHcQEcaObZOzsbPI6IvS24Guyu0Vk4fDffJNC3f7Ga",
+    "date": 1609081312482
   }
 ]
