@@ -47,5 +47,19 @@
     "email": "udemybr@gmail.com",
     "password": "$2a$10$kv4U1zxUR4EPcynapI9FOOgNr8TQsOt0u6fBo15xkCfKpYje5XcvO",
     "date": 1609094648510
+  },
+  {
+    "id": 8,
+    "name": "Stack Overflow",
+    "email": "fullstack@gmail.com",
+    "password": "$2a$10$uEXa61TZ3pw5KYQbNQqd9uxpRFeKjMM39DlNkUaPe32YNYGJDqbfm",
+    "date": 1609095193139
+  },
+  {
+    "id": 9,
+    "name": "Salvador Rimaa",
+    "email": "salvadorrima@com.bras",
+    "password": "$2a$10$8mhQTztBXt6W//HvHbYJkepYX99bSIBHPAAewCW4NH98l/6C7UFsy",
+    "date": 1609099485543
   }
 ]
