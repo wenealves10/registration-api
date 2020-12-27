@@ -1,37 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Wene Alves",
-    "email": "wene@acad.com",
-    "password": "$2a$10$2DD2co31wlRZElmoJPGhIOJWJrPIN0qM9d2S7cG8RdZeDJwh3NW2S",
-    "date": 1608987549920
-  },
-  {
-    "id": 2,
-    "name": "Wene Alves de Oliveira",
-    "email": "weneplay5@gmail.com",
-    "password": "$2a$10$a3O4thRMmpr33AC/n1qoHu4a3le/TEeWJBbtbNG04RwudgxQc0HCS",
-    "date": 1608987632732
-  },
-  {
-    "id": 3,
-    "name": "Wene Alves de Oliveira",
-    "email": "weneplay5@gmail.coms",
-    "password": "$2a$10$ZvhgtC9NUEIOE.agetGCQ.GFXfe1VWGAtz.wzebFIFZsO9IERUypa",
-    "date": 1608991258228
-  },
-  {
-    "id": 4,
-    "name": "Salvador de Oliveira",
-    "email": "salvadorrima@gmail.com",
-    "password": "$2a$10$QfHerQEzZ53y6DsgrbfIXu/GwwQcLUU7JSgS2tMZo4Qxaq.cWmNqa",
-    "date": 1608992903047
-  },
-  {
-    "id": 5,
-    "name": "Salvador Rima",
-    "email": "salvadorrima@com.br",
-    "password": "$2a$10$VMjMmd8hQO4de7p8NcZLneDCRAtENNOQhcNL2/T4HtuULpO/B3NXS",
-    "date": 1608993443688
+    "name": "Pedro Alves Santos",
+    "email": "pedrosantoss@gmail.com",
+    "password": "$2a$10$bfM/CezK/QUX/xtaYW0BU.LfWA/9m6cX/AUbjMleGSvicg2z35R7m",
+    "date": 1609079592532
   }
 ]
