@@ -75,5 +75,12 @@
     "email": "salvadorrima@net.br",
     "password": "$2a$10$Uuq5RPmk2BeUnCRqhxagsOsfFf9z03jS15Q0avKaPyBfSr4sQUhfy",
     "date": 1609100169589
+  },
+  {
+    "id": 12,
+    "name": "Teste Teste",
+    "email": "teste@gmail.com",
+    "password": "$2a$10$l1d03zCDVOTzs8VUv4uCVuK22dNyz0ZdBCYF4MZNTLmu4Sffe8TbO",
+    "date": 1609160036456
   }
 ]
