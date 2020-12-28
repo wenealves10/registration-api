@@ -7,11 +7,11 @@ module.exports = (req, res) => {
             res.statusCode = 200;
             res.json({token});
         }else{
-            res.statusCode = 404;
+            res.statusCode = 401;
             res.json({error: 'wrong email or password'});
         }
     }).catch(error =>{
-        res.statusCode = 401;
+        res.statusCode = 404;
         res.json({error: 'wrong email or password'})
     })
 }
