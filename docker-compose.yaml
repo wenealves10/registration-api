@@ -10,7 +10,7 @@ services:
       - 3000:3000
     restart: always
   client:
-    image: wns1601/registration-client:1.0
+    image: wns1601/registration-client:2.0
     container_name: registration-client
     ports: 
       - 8080:80
