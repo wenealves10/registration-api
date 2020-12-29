@@ -89,5 +89,12 @@
     "email": "alves@gmail.com",
     "password": "$2a$10$lR7pcASJ1Gi8XaXFVADLMu1SSOe1IaSJWCzqPd.HQh.SBn4FiFe9y",
     "date": 1609171182359
+  },
+  {
+    "id": 14,
+    "name": "Teste Alves",
+    "email": "teste123@gmail.com",
+    "password": "$2a$10$v5ZeXlWN9n0iD7V6F0y7MuMTVjtvlanW.R4ZBluTt0ubdIolcZQum",
+    "date": 1609278913836
   }
 ]
